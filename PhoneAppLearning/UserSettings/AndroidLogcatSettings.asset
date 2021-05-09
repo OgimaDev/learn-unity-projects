@@ -1,0 +1,191 @@
+{
+    "m_SelectedDeviceId": "RF8M80XQS6Y",
+    "m_SelectedPackage": {
+        "deviceId": "RF8M80XQS6Y",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 29497,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 3352,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 7310,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 15945,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16638,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18240,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20508,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 21179,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 22788,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 14673,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 12852,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 13884,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 31976,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6141,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9144,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 10558,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11517,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 21948,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23673,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 24109,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27042,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M80XQS6Y",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 29497,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
